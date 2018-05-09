@@ -1,4 +1,4 @@
-package br.com.drummond.acessojpa.controller;
+package br.com.drummond.acessojpa.modelo;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
